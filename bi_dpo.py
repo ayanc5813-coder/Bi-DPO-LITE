@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-
 !nvidia-smi
 
 from google.colab import drive
